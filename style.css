@@ -1,0 +1,27 @@
+body {
+  font-family: "Poppins", sans-serif;
+
+}
+h1{
+    font-weight: 700px;
+}
+p{
+    font-weight: 100px;
+}
+.container-color{
+    background-color: #264653;
+}
+.text-color{
+    color: #e76f51;
+    border-color:#e76f51 ;
+}
+#text-color{
+    color: #e76f51;
+}
+.gray-scale{
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+ul li a{
+    text-decoration: none;
+}
